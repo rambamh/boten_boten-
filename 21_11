@@ -1,0 +1,6 @@
+the_day_of_the_year =365
+i_am_the_king = the_day_of_the_year <3444 
+print (i_am_the_king)
+i_am_the_king = 36
+i_am_the_king == 365
+
